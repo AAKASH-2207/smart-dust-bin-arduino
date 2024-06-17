@@ -14,5 +14,9 @@ how to create a smart dustbin using arduino micro-controller, ir sensor and ultr
 
 <img src="https://github.com/AAKASH-2207/smart-dust-bin-arduino/assets/90674945/ffab6ded-248f-4c08-bf9b-433cccab39d7" width=50% height=50%>
 
+- Servo
+
+<img src="https://github.com/AAKASH-2207/smart-dust-bin-arduino/assets/90674945/6a02c57a-35c3-45ed-ac3f-786145d7d0c6" width=50% height=50%>
+
 - Jumper wires
 
